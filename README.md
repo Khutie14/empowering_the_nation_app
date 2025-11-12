@@ -64,5 +64,3 @@ You can test the **Empowering the Nation App** directly here:
 - 🍎 iOS  
 
 ---
-
-## 📂 Folder Structure
